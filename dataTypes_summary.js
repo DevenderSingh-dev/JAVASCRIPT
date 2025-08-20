@@ -56,3 +56,16 @@ anothername = "devsingh2";
 
 console.log(myyoutubename); // devsingh
 console.log(anothername); // devsingh2  
+
+let userone = {
+    email:"dev32@gmail.in",
+    upi: "dev@upi",
+}
+
+let usertwo = userone;
+usertwo.email = "devender3421@.in"
+
+console.log(userone.email);
+console.log(usertwo.email);
+
+
