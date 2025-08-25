@@ -32,4 +32,3 @@ console.log(url.includes('jitesh')); //false
 
 const spill = "Devender-Choudhary-Singh";
 console.log(spill.split("-"));
-
