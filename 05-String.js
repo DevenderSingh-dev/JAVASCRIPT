@@ -13,22 +13,23 @@ const gameName = new String("Devender");
 // console.log(gameName.length);
 // console.log(gameName.toUpperCase());
 // console.log(gameName.charAt(2));
-console.log(gameName.indexOf("e"));
+// console.log(gameName.indexOf("e"));
 
 const newString = gameName.substring(0, 4);
-console.log(newString);
+// console.log(newString);
 const oldString = gameName.slice(-8, 4);
-console.log(oldString);
+// console.log(oldString);
 
 const anoString = "   Hello World    ";
-console.log(anoString);
-console.log(anoString.trim());
+// console.log(anoString);
+// console.log(anoString.trim());
 
 const url = "https://hitesh.com/hitesh%20choudhary";
-console.log(url.replace('%20', "-"));
+// console.log(url.replace('%20', "-"));
 
-console.log(url.includes('hitesh')); //true
-console.log(url.includes('jitesh')); //false
+// console.log(url.includes('hitesh')); //true
+// console.log(url.includes('jitesh')); //false
 
 const spill = "Devender-Choudhary-Singh";
 console.log(spill.split("-"));
+
