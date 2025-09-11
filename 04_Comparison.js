@@ -21,4 +21,4 @@
 
 //=== strict checking its type and value is same aur not
 
-console.log("2" === 2);
+// console.log("2" === 2);
