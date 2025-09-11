@@ -1,4 +1,4 @@
-let score = 33;
+// let score = 33;
 // let score = "33";
 // let score = "33abc";
 // let score = null;
@@ -10,7 +10,7 @@ let score = 33;
 // console.log(typeof score)
 // console.log(typeof(score))
 
-let valueInNumber = Number(score)
+// let valueInNumber = Number(score)
 // console.log(typeof valueInNumber)
 
 // console.log(valueInNumber)
@@ -21,8 +21,8 @@ let valueInNumber = Number(score)
 // let isLoggedIn = "Rohit" => trur
 
 // using below method we can change/conversion of decalre variable by number to string to boolean and after that we can see to print them in console
-let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
+// console.log(booleanIsLoggedIn);
 
 // let someNumber = 33
 // console.log(typeof someNumber)
