@@ -31,5 +31,5 @@ const url = "https://hitesh.com/hitesh%20choudhary";
 // console.log(url.includes('jitesh')); //false
 
 const spill = "Devender-Choudhary-Singh";
-console.log(spill.split("-"));
+// console.log(spill.split("-"));
 
