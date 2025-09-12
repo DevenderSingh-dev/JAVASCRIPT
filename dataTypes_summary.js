@@ -28,20 +28,20 @@
 
 // 3 Types :- Object, Array, Function
 
-const heros = ["Thor", "Ironman", "Hulk"];
+// const heros = ["Thor", "Ironman", "Hulk"];
 // console.log(heros);
 
-let myObj = {
-    name: "Dev",
-    age: 24,
-    Id : "4948",
-}
+// let myObj = {
+//     name: "Dev",
+//     age: 24,
+//     Id : "4948",
+// }
 // console.log(myObj);
 
 
-const myfunction = function() {
-    // console.log("Hello world");
-}
+// const myfunction = function() {
+//     console.log("Hello world");
+// }
 
 
 // console.log(typeof anotherid);
@@ -54,8 +54,8 @@ let myyoutubename = "devsingh"
 let anothername = myyoutubename;
 anothername = "devsingh2";
 
-console.log(myyoutubename); // devsingh
-console.log(anothername); // devsingh2  
+// console.log(myyoutubename); // devsingh
+// console.log(anothername); // devsingh2  
 
 let userone = {
     email:"dev32@gmail.in",
@@ -65,7 +65,9 @@ let userone = {
 let usertwo = userone;
 usertwo.email = "devender3421@.in"
 
-console.log(userone.email);
-console.log(usertwo.email);
+// console.log(userone.email);
+// console.log(usertwo.email);
 
+// console.log(userone);
+// console.log(usertwo);
 
