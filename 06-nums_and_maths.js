@@ -12,3 +12,5 @@ const balance = new Number (100)
   const otherNumber = 123.32342
   console.log(otherNumber.toPrecision(3));
 
+const hundreds = 1000000;
+console.log(hundreds.toLocaleString("en-IN"));
