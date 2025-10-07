@@ -1,17 +1,18 @@
-const number = 400
+const num = 400
+console.log(num);
 
-//  console.log(typeof number);
-//  console.log(number);
+const balance = new Number(100.2345)
+console.log(balance);
 
-const balance = new Number (100)
+console.log(balance.toString().length);
+console.log(balance.toFixed(2));
 
-// console.log(typeof balance);
-// console.log(balance.toString().length);
-// console.log(balance.toFixed(2));
-
-  const otherNumber = 123.32342
-  console.log(otherNumber.toPrecision(3));
+// const anothernum = 23.8966
+const anothernum = 123.8966
+console.log(anothernum.toPrecision(3));
 
 const hundreds = 1000000;
 console.log(hundreds.toLocaleString("en-IN"));
+
+// *-----------------------------------------------------------------*
 
